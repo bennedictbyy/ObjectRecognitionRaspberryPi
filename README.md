@@ -1,0 +1,2 @@
+# ObjectRecognitionRaspberryPi
+This project is about displaying a simple Real-Time Object Detection system which includes using Google’s TensorFlow Lite software that is installed in a Raspberry Pi 4, running Raspbian OS. It uses Google’s pre-trained COCO SSD MobileNet v1 model. The goal is to implement this in Penang Science Cluster's TechLab and implement additional add ons to ensure the project can be automated. 
