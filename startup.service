@@ -1,0 +1,10 @@
+[Unit]
+Description=startup
+
+[Service]
+ExecStart=/home/pi/startup.sh
+
+[Install]
+WantedBy=multi-user.target
+
+
